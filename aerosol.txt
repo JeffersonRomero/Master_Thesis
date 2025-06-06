@@ -1,0 +1,11 @@
+Tipo de Aerosol	τ	ω	g	α_(350-500 nm)	α_(500-800 nm)
+Continental limpio	0.064	0.972	0.709	1.10	1.42
+Continental Promedio 	0.151	0.925	0.703	1.11	1.42
+Continental Contaminado	0.327	0.892	0.698	1.13	1.45
+Urbano	0.643	0.817	0.689	1.14	1.43
+Desértico	0.286	0.888	0.729	0.20	0.17
+Marítimo limpio	0.096	0.997	0.772	0.12	0.08
+Marítimo contaminado	0.117	0.975	0.756	0.41	0.35
+Marítimo tropical	0.056	0.998	0.774	0.07	0.04
+Ártico	0.063	0.887	0.721	0.85	0.89
+Antártico	0.072	1.000	0.784	0.34	0.73
